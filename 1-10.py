@@ -1,0 +1,7 @@
+Name="Bara"#edit this for ur name ;)
+Age="21"#edit this for ur age ;)
+Country="Jordan"#edit this for ur country ;)
+print("\"Hello, My Name is "+Name+" "+"And Iam "+Age+" "+"Years Old and I Live in "+ Country+"\"")
+print(type(Name))
+print(type(Age))
+print(type(Country))
